@@ -6,9 +6,6 @@ export default function Contact() {
   return (
     <>
       <div>Contact</div>
-      <Link to="/blogs">
-        <Button type="primary">Go to Blogs Page</Button>
-      </Link>
     </>
   );
 }

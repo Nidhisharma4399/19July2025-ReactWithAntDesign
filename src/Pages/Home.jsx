@@ -7,9 +7,6 @@ export default function Home() {
   return (
     <>
     <div>Home</div>
-     <Link to="/Contact">
-        <Button type="primary">Go to Contact Page</Button>
-      </Link>
     </>
   )
 }

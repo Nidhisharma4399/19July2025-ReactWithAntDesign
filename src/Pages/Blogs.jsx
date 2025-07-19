@@ -6,9 +6,6 @@ export default function Blogs() {
   return (
     <>
       <div>Blogs</div>
-      <Link to="/Nopage">
-        <Button type="primary">Go to No Page</Button>
-      </Link>
     </>
   );
 }
